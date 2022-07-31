@@ -1,0 +1,17 @@
+{ 
+   "name": "ARPT-Bot", 
+   "description": "", 
+   "website": "https://origamiboy.herokuapp.com/", 
+   "repository": "https://github.com/Originat/ARPT-Bot", 
+   "success_url": "/", 
+   "logo": "/", 
+   "keywords": ["python"], 
+   "env": { 
+     "CONFIG_FILE": { 
+       "description": "Path to config file, could be a url." 
+     }, 
+     "DOMAIN": { 
+       "description": "Domain to use." 
+     }
+   } 
+ }
